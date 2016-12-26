@@ -2,3 +2,4 @@
 Creating a new branch is quick && SIMPLE.
 new commit
 git is a free software.
+git is a good software.
